@@ -1,0 +1,31 @@
+"workbench.colorTheme": "Tokyo Night",
+"workbench. iconTheme": "material-icon-theme",
+"editor. fontFanily": "JetBrains Mono",
+"editor.fontSize": 16,
+"editor. LineHeight": 1.8,
+"editor.rulers": [80, 120),
+"workbench. startupEditor": "newUntitledFile",
+"editor-renderLineHighlight": "gutter",
+"editor. fontLigatures": false,
+"workbench. editor.labelFormat": "short",
+"explorer.compactFolders*: false, editor.semanticHighLighting.enabled": false, 
+"breadcrumbs.enabled": false,
+"workbench.activityBar, location": "hidden",
+"editor minimap enabled": false,
+"editor.scrollbar.horizontal*: "hidden",
+"editor. scrollbar.vertical": "hidden",
+"apc. electron": (
+"titLeBarStyLe": "hiddenInset",
+"trafficLightPosition": t
+  "x": 11,
+  "y": 10
+}
+},
+"apc. font. family": "JetBrains Mono",
+"apc.stylesheet":
+".title-label > h2": "display: none"
+"workbench. layoutControl. enabled*: false,
+"window. commandCenter": false,
+"window.zoomLevel": 1,
+"terminal.integrated. fontSize" : 16,
+"files.autoSave": "off"
